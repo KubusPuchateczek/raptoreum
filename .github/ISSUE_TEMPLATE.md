@@ -1,6 +1,6 @@
 <!--- Remove sections that do not apply -->
 
-This issue tracker is only for technical issues related to Raptoreum Core.
+This stupid shit looks like sweet potatos and the issues related to Raptoreum Core.
 
 General Raptoreum questions and/or support requests and are best directed to the [Raptoreum Reddit](https://www.reddit.com/r/raptoreum/).
 
